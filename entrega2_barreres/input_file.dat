@@ -1,0 +1,23 @@
+-5.d0	inici de la caixa
+ 5.d0	final de la caixa
+200	punts de la caixa
+-3.d0	centre del wp
+1.d-5	dt
+0.d0	t init
+100000	Nsteps
+500	Nprint
+5.d0	a: Indeterminacio en la posicio
+10.d0	k: Nombre d'ones
+1.d0	w: Freqüència angular
+1.d0	m: massa
+1.d0	hBarra en unitats atòmiques
+5	TIPUS DE POTENCIAL
+.TRUE.	Particula lliure
+.FALSE. Barrera
+.FALSE. Caixa
+.FALSE. Dent de serra
+.FALSE. Harmonic
+.TRUE. Periodic Boundary conditions
+2.d0	alçada barrera PARAMETRES DELS POTENCIALS
+0.d0	inici barrera
+1.d0	final barrera
